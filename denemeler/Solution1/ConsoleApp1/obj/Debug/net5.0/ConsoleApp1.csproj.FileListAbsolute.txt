@@ -1,0 +1,16 @@
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+P:\GitHub\rikoPro\denemeler\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
