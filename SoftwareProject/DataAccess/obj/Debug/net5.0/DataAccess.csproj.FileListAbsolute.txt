@@ -1,0 +1,14 @@
+P:\GitHub\SoftwareProject\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+P:\GitHub\SoftwareProject\DataAccess\bin\Debug\net5.0\DataAccess.dll
+P:\GitHub\SoftwareProject\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+P:\GitHub\SoftwareProject\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+P:\GitHub\SoftwareProject\DataAccess\bin\Debug\net5.0\Entities.dll
+P:\GitHub\SoftwareProject\DataAccess\bin\Debug\net5.0\Entities.pdb
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.dll
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+P:\GitHub\SoftwareProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb

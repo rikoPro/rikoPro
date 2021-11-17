@@ -1,0 +1,11 @@
+P:\GitHub\SoftwareProject\Entities\bin\Debug\net5.0\Entities.deps.json
+P:\GitHub\SoftwareProject\Entities\bin\Debug\net5.0\Entities.dll
+P:\GitHub\SoftwareProject\Entities\bin\Debug\net5.0\ref\Entities.dll
+P:\GitHub\SoftwareProject\Entities\bin\Debug\net5.0\Entities.pdb
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\Entities.dll
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+P:\GitHub\SoftwareProject\Entities\obj\Debug\net5.0\Entities.pdb
